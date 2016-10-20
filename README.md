@@ -1,0 +1,1 @@
+This project was done as the 1st semester Object oriented programming semester project. Project was done using Java in Netbeans. The main purpose of this application was to use object oriented principals to enhance the user experience.
